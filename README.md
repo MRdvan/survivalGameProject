@@ -1,6 +1,6 @@
 # SurvivalGameProject
 
-Main idea about this game is the keeping our child alive with loot/craft/fight.
+Main idea about this game is keeping our child alive with loot/craft/fight.
 
 - Basic movement with mouse.
 - Day&Night sequence (Day for loot / Night for fight).
